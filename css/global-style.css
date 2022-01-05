@@ -1,0 +1,39 @@
+.relative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+}
+.pad-5px{
+    padding: 5px;
+}
+
+
+.pad-10px{
+    padding: 10px;
+}
+
+/*Icons*/
+svg {
+    width: 20px;
+    color: #eb8934;
+    
+}
+.icon{ color: #eb8934;
+}
+
+.svg-50px{
+    width: 50px;
+}
+
+span{
+    background-color: #eb8934;
+    border-radius: 5px ;
+}
+
+/*Text decoration*/
+.txt-decoration-none{
+    text-decoration: none;
+    color: #000;
+}
